@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.laoxielearnsth.jbplugin.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.laoxielearnsth.jbplugin.MyBundle
 
 class MyApplicationService {
 
